@@ -90,7 +90,7 @@ export default function Contact() {
             piyushma271@gmail.com
           </a>
           <a
-            href="https://linkedin.com/in/piyushma271"
+            href="https://linkedin.com/in/piyush307"
             target="_blank"
             rel="noopener noreferrer"
             style={{

@@ -83,7 +83,7 @@ export default function Hero() {
           {
             icon: <LinkedinIcon />,
             label: "LinkedIn",
-            href: "https://linkedin.com/in/piyushma271",
+            href: "https://linkedin.com/in/piyush307",
           },
           {
             icon: <Mail size={16} />,
